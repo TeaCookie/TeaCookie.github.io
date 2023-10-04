@@ -1,2 +1,3 @@
 1. Its easier to use, its faster, and theres no database or backend to communicate with, which also means theres no security concerns.
 Downsides are you have to re generate the output and publish the page every time.
+2. https://teacookie.github.io/
